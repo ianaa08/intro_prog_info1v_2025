@@ -1,0 +1,79 @@
+Q1 - Escreva um algoritmo que calcule a soma de dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a soma desses números;
+
+Q2 - Escreva um algoritmo que calcule a soma de dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a soma desses números;
+    3. Mostro o resultado desse cálculo.
+
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', cacule a soma deles e mostre o resultado.
+
+
+    Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule a soma de 'a' mais 'b';
+    3. Mostre o resultado dessa soma.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a soma de [a] + [b];
+    3. Mostre o resultado dessa soma.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a [soma] = [a] + [b];
+    3. Mostre [soma].
+
+    Refinando o 'código':
+
+    1. Ler [a];   # read [a]   scan [a]   input [a]                
+    2. Ler [b];
+    3. [soma] = [a] + [b];
+    4. Mostre [soma].  # print [soma]    show [soma]     output [soma]
+
+  Q4- Escreva um algoritmo que leia dois números inteiros 'c' e 'd', calcule a diferença deles e mostre o resultado.
+
+   1. Leia os números [c] e [d];
+   2. Calcule a diferença de [c] - [d];
+   3. Mostre o resultado dessa diferença.
+
+   Refinando o ' código':
+
+   1. Leia os números [c] e [d];
+   2. Calcule a [diferença] = [c] - [d];
+   3. Mostre a [diferença].
+
+Q5- Escreva um algoritmo que leia dois números inteiros 'e' e 'f', calcule o produto deles e mostre o resultado.
+
+   1. Leia os números [e] e [f];
+   2. Calcule o produto de [e] . [f];
+   3. Mostre o resultado desse produto.
+
+   Refinando o ' código ':
+
+   1. Leia os números [e] e [f];
+   2. Calcule o [produto] = [e] . [f];
+   3. Mostre o [produto].
+
+Q6- Escreva um algoritmo que leia dois números inteiros 'g' e 'h', calcule o quociente deles e mostre o resultado.
+
+    1.Leia os númerod [g] e [h];
+    2. Calcule o quociente de [g] / [h];
+    3. Mostre o resultado desse quociente.
+
+    Refinando o ' código ':
+
+    1. Leia os números [g] e [h];
+    2. Calcule o [quociente] = [g]/[h]
+    3. Mostre o [quociente].
+   
+
