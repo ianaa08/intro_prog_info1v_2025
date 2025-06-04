@@ -1,0 +1,362 @@
+Q1 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', cacule a soma deles e mostre o resultado.
+    Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule a soma de 'a' mais 'b';
+    3. Mostre o resultado dessa soma.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a [soma] = [a] + [b];
+    3. Mostre [soma].
+
+
+Q2- Escreva um algoritmo que leia dois números inteiros 'a','b' e 'c', cacule a média aritmética deles e mostre o resultado.
+    Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+   1. Leia os números [a], [b] e [c];
+   2. Calcule a soma de [a], [b] e [c];
+   3. Divida essa soma pela quantidade de elementos;
+   4. A quantidade de elementos nesse caso é: [a], [b] e [c], 3 elementos;
+   5. Mostre o resultado dessa média aritmética.
+
+   Refinando o 'código':
+
+    1. Leia os números [a], [b] e [c];
+    2. Calcule a soma de [a] + [b] + [c];
+    3. Divida [a] + [b] + [c] pela quantidade de elementos;
+    4. ([a] + [b] + [c])/3;
+    5. Mostre o resultado dessa média aritmética.
+
+    Refinando o 'código':
+
+    1. Leia os números [a], [b] e [c];
+    2. Calcule a [soma] = [a] + [b] + [c];
+    3. Calcule [a] + [b] + [c])/3;
+    5. Mostre [média aritmética].
+
+Q3-  Escreva um algoritmo que leia dois números inteiros 'b' e 'h', sendo eles a base e a altura de um retângulo, cacule a área deles e mostre o resultado.
+    Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+      1. Leia os números inteiros 'b' e 'h';
+      2. Calcule a área de 'b' e 'h';
+      3. A área de um retângulo é calculada por [b] x [h];
+      4. Mostre o resultado dessa multiplicação.
+
+    Refinando o 'código':
+    1. Leia os números inteiros 'b' e 'h';
+    2. Calcule a [multiplicação]= [b] x [h];
+    3. Mostre o resultado da [área].
+
+Q4-  Escreva um algoritmo que leia dois números inteiros b (base) e h (altura), calcule a área de um triângulo e mostre o resultado.
+    Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+      1. Leia os números inteiros 'b' e 'h';
+      2. Calcule a área a partir  de 'b' e 'h';
+      3. A área de um triângulo é calculada por ([b] x [h])/2;
+      4. Mostre o resultado dessa área.
+
+    Refinando o 'código':
+    1. Leia os números inteiros [b] e [h];
+    2. Calcule a [área]= ([b] x [h])/2;
+    3. Mostre o resultado da [área].
+
+Q5-Escreva um algoritmo que leia um número inteiro 'C' (temperatura em Celsius), calcule a conversão para 'F' ( temperatura em Fahrenheit) usando a fórmula F = (9 * C + 160) / 5, 
+e mostre o resultado.
+    Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+      1. Leia os números inteiros 'F' e 'C';
+      2. Calcule a conversão a partir de 'F' e 'C';
+      3. A conversão de 'C' para 'F' é dada a partir de: F = (9 * C + 160) / 5;
+      4. Mostre o resultado da temperatura em 'F'.
+
+     Refinando o 'código':
+     1. Leia o número [C];
+     2. Calcule a [conversão]= F = (9 * C + 160) / 5;
+     3. Mostre o resultado em [Fahrenheit].
+
+Q6 – Escreva um algoritmo que leia três notas (números reais) e seus respectivos pesos, calcule a média ponderada e mostre o resultado.
+     Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+  
+    1.Leia as notas [n1], [n2], [n3];
+    2.Leia os pesos [p1], [p2], [p3];
+    3.Calcule o numerador da média: [n1 × p1 + n2 × p2 + n3 × p3];
+    4.Calcule o denominador da média: [p1 + p2 + p3];
+    5.Divida o numerador pelo denominador;
+    6.Mostre o resultado da [média ponderada].
+
+   Refinando o 'código':
+    1. Notas: n1, n2 e n3;
+    2. Pesos: p1, p2 e p3;
+    3. A [média ponderada] é calculada pela fórmula: Média= n1.p1 + n2.p2 + n3.p3 / p1 + p2 + p3;
+    4. Mostre o resultado da [média ponderada].
+
+
+Q7- Escreva um algoritmo que leia o comprimento, a largura e a altura de uma caixa retangular e calcule seu volume.
+     Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+    1.Leia o comprimento [c];
+    2.Leia a largura [l];
+    3.Leia a altura [h];
+    4.Calcule o volume: volume = c × l × h;
+    5.Mostre o resultado do volume.
+
+   Refinando o 'código':
+   1. Leia os números inteiros [c], [l] e [h];
+   2. Calcule o [volume]= c x l x h;
+   3. Mostre o [volume].
+
+Q8- Escreva um algoritmo que leia o preço de três produtos e exiba o valor total da compra.
+     Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+    1.Leia o preço do primeiro produto [p1];
+    2.Leia o preço do segundo produto [p2];
+    3.Leia o preço do terceiro produto [p3];
+    4.Calcule o valor total: total = p1 + p2 + p3;
+    5.Mostre o valor total da compra.
+
+    Refinando o 'código':
+    1. Leia os números inteiros [p1], [p2] e [p3];
+    2. Calcule o [total]= p1 + p2 + p3;
+    3. Mostre o [total].
+
+Q9-  Escreva um algoritmo que leia o tempo gasto em horas e a velocidade média. Calcule a distância total da viagem e o tempo total em minutos.
+      Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+    1.Leia o tempo gasto em horas [tempo];
+    2.Leia a velocidade média [velocidade];
+    3.Calcule a distância total: distância = velocidade × tempo;
+    4.Calcule o tempo total em minutos: tempo_minutos = tempo × 60;
+    5.Mostre a distância total percorrida;
+    6.Mostre o tempo total em minutos.
+
+  Refinando o 'código':
+  1. Leia os números inteiros [tempo] e [velocidade];
+  2. Calcule a [distância]= [velocidade] x [tempo];
+  3. Calcule o tempo(minutos)= [tempo] x 60;
+  4. Mostre a [distância total] e [tempo total.
+
+Q10- Escreva um algoritmo que leia um número de dias e converta para horas (sabendo que 1 dia = 24 horas).
+      Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+   1. Quantidade de dias [d];
+   2. Total de horas [h];
+   3. Conversão = h= d x 24.
+
+  Refinando o 'código':
+  1. Leia o número de dias [dias];
+  2. Calcule a conversão: horas = dias × 24;
+  3. Mostre o total de [horas].
+
+Q11- Escreva um algoritmo que leia um número de minutos e converta para segundos (sabendo que 1 min. = 60 seg.).
+      Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+   1. Total de minutos [m];
+   2. Total de segundos [s];
+   3. Conversão = s= m x 60.
+
+  Refinando o 'código':
+  1. Leia o número de minutos [m];
+  2. Calcule a conversão: [s] = [m] × 60;
+  3. Mostre o total de [seg.].
+
+Q12- Escreva um algoritmo que leia um salário e um valor de aumento fixo. Calcule e exiba o novo salário.
+      Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+    1.Leia o valor do salário atual [salario];
+    2.Leia o valor do aumento fixo [aumento];
+    3.Calcule o novo salário: novo_salario = salario + aumento;
+    4.Mostre o valor do novo salário.
+
+   Refinando o 'código':
+   1. Leia os números inteiros [salario] e [aumento];
+   2. Calcule [novo_salario]= salario + aumento;
+   3. Mostre [novo_salario].
+
+Q13-Escreva um algoritmo que leia o capital, a taxa de juros mensal e o tempo em meses. Calcule e exiba o montante com juros simples. 
+     Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+      1.Leia o capital inicial [C];
+      2.Leia a taxa de juros mensal [i] (em decimal) ex.: 5%=0,05;
+      3.Leia o tempo em meses [t];
+      4.Calcule os juros: juros = C × i × t;
+      5.Calcule o montante: M = C + juros;
+      6.Mostre o valor do montante com juros simples.
+
+      Refinando o 'código':
+      1. Leia [C], [i] e [t];
+      2. Calcule os [juros]= C x i x t;
+      3. Calcule o [montante]= M = C + juros;
+      4. Mostre o [montante].
+
+Q14- Escreva um algoritmo que leia o valor da compra e o valor pago. Calcule e exiba o troco.
+      Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+      1. Leia o valor da compra [compra];
+      2.Leia o valor pago pelo cliente [pago];
+      3.Calcule o troco: troco = pago - compra;
+      4.Mostre o valor do troco.
+
+      Refinando o 'código':
+      1. Leia [compra] e [pago];
+      2. Calcule o [troco]= pago - compra;
+      3. Mostre o [troco].
+
+Q15- Escreva um algoritmo que leia o peso (kg) e a altura (m), e calcule o IMC usando a fórmula: IMC = peso / (altura ^ 2).
+      Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+      1. Leia o valor do peso em 'kg' [p];
+      2. Leia o valor da altura em 'metros' [h];
+      3. Calcule o IMC pela fórmula: IMC = peso / (altura ^ 2);
+      4. Mostre o valor do IMC.
+
+      Refinando o 'código':
+      1. Leia os números reais [p] e [h];
+      2. Calcule [IMC];
+      3. Mostre o [IMC];
+
+Q16- Escreva um algoritmo que leia o raio de um círculo e calcule o perímetro usando a fórmula: P = 2 × π × raio, (use π = 3.14).
+      Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+      1. Leia o raio do círculo [r];
+      2. Substitua π por 3,14 na fórmula: P = 2 × π × raio;
+      3. Calcule o perímetro do círculo por: P = 2 × 3,14 × raio;
+      4. Mostre o valor do perímetro.
+
+      Refinando o 'código':
+      1. Leia [r];
+      2. Calcule o [perímetro];
+      3. Mostre o valor do [perímetro].
+
+Q17- Escreva um algoritmo que leia duas idades e calcule a diferença entre elas.
+      Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+      1. Leia primeira idade [i1];
+      2. Leia segunda idade [i2];
+      3. Faça a diferença entre elas, sempre colocar a idade maior primeiro para evitar resultado negativo;
+      4. Diferença= primeira idade -  segunda idade;
+      5. Mostre o resultado da diferença.
+
+     Refinando o 'código':
+     1. Leia [i1] e [i2];
+     2. Calcule a [diferença];
+     3. Mostre a [diferença].
+
+Q18- Escreva um algoritmo que leia a distância percorrida (em km) e o total de combustível gasto (em litros). Calcule a média de consumo:
+
+      Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+     1.Leia a distância percorrida [km];
+     2.Leia o combustível gasto [litros];
+     3.Calcule a média de consumo: consumo = km / litros;
+     4.Mostre o valor da média de consumo.
+
+    Refinando o 'código':
+    1. Leia a [distância] e o [combustível];
+    2. Calcule a [média de consumo];
+    3. Mostre a [média de consumo].
+
+Q19- Escreva um algoritmo que leia o valor total da conta e o número de pessoas. Calcule quanto cada pessoa deve pagar.
+
+       Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+      1. Leia valor total da conta [vtc];
+      2. Leia número total de pessoas [ntp];
+      3. Calcule o valor que cada pessoa deve pagar [ valor individual];
+      4. Valor individual = vtc / ntp;
+      5. Mostre o valor individual.
+
+     Refinando o 'código':
+     1. Leia [vtc] e [ntp];
+     2. Calcule [valor individual];
+     3. Mostre o [valor individual];
+
+Q20- Escreva um algoritmo que leia o valor de um produto e a porcentagem de desconto. Calcule e exiba o valor final com o desconto aplicado.
+
+     Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+      1. Leia o valor do produto [vp];
+      2. Leia a porcentagem do desconto [pd];
+      3. Leia valor final do desconto [vfd];
+      4. Calcule o valor do desconto: desconto = [vp] x ([pd]/100)
+      5. Calcule o [vfd] = [vp] - desconto;
+      6. Mostre o valor final.
+
+    Refinando o 'código':
+    1. Leia [vp] e [pd];
+    2. Calcule o desconto = [vp] x ([pd]/100);
+    3. Calcule [vfd] = [vp] - desconto;
+    4. Mostre [vfd].
+
+
+     
+
+
+
+
+
+
+
+
+
